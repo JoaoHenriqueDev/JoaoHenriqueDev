@@ -23,7 +23,7 @@
 
 ### **Frameworks e Ferramentas**
 <div>
-  <img src="https://skillicons.dev/icons?i=spring,git,mysql,linux,powershell,vscode,intellij,figma,docker" />
+  <img src="https://skillicons.dev/icons?i=spring,git,mysql,linux,powershell,vscode,intelliJ,figma,docker" />
 </div>
 
 ---
