@@ -1,30 +1,29 @@
 <h1 align="center">Olá! Eu sou o João Henrique 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor em formação • Java • PHP • JavaScript • HTML/CSS • Suporte Técnico</strong>
+  <strong>Desenvolvedor em formação • Java • JavaScript • HTML/CSS • Spring • RestAPI</strong>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas – Cruzeiro do Sul**
-- 💼 Experiência como **Assistente de Service Desk**
-- 🖥️ Conhecimento em **Active Directory, GPO, DHCP, File Server, Microsoft 365, MFA**
-- 📚 Atualmente estudando **Java, Spring, PHP (MVC), SQL, Power BI**  
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 🖥️ Conhecimento em **Java, Spring, Hibernate, MySQL, Postgress, React**
+- 📚 Atualmente estudando **Java, Spring, SQL, React**  
 - 📌 Buscando meu primeiro emprego/dev ou estágio na área de tecnologia  
-- 🔧 Já desenvolvi sistemas completos em **PHP, Java, HTML, CSS, JS**
+- 🔧 Já desenvolvi sistemas completos em **PHP, Java, HTML, CSS, JS, Spring**
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 ### **Linguagens**
 <div>
-  <img src="https://skillicons.dev/icons?i=java,php,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react" />
 </div>
 
 ### **Frameworks e Ferramentas**
 <div>
-  <img src="https://skillicons.dev/icons?i=spring,git,mysql,linux,powershell,vscode" />
+  <img src="https://skillicons.dev/icons?i=spring,git,mysql,linux,powershell,vscode,intellij,figma,docker" />
 </div>
 
 ---
@@ -34,19 +33,10 @@ Aqui estão alguns projetos que melhor representam minhas habilidades:
 
 ### 🔹 **API em Java Spring Boot**
 - Autenticação, CRUDs, DTOs, Regras de negócio  
-- ➜ *Adicionar link do repositório aqui*
 
-### 🔹 **Sistema Web em PHP (MVC)**
-- Login, cadastro, agendamentos, painel administrativo  
-- ➜ *Adicionar link do repositório aqui*
+### 🔹 **App de Gestão Financeira em Grupo Java | Spring | REST | JWT | Hibernate | MySQL | Docker | AWS (básico) | Git**
+- Aplicativo projetado para organizar finanças de grupos e famílias, permitindo controle de compras, contas a pagar com leitura de boletos e anexação de comprovantes, gestão de parcelas e divisão de valores entre membros. Inclui criação de grupos com permissões de administrador, metas financeiras, tarefas e compromissos com notificações automáticas, além de painel inicial com gráficos e relatórios.  
 
-### 🔹 **Dashboard com Chart.js + MySQL**
-- Gráficos dinâmicos de serviços e avaliações  
-- ➜ *Adicionar link do repositório aqui*
-
-### 🔹 **Projeto TCC – Sistema Completo**
-- Desenvolvido em **PHP, JS, HTML, CSS**  
-- ➜ *Adicionar link do repositório aqui*
 
 ---
 
@@ -58,7 +48,6 @@ Aqui estão alguns projetos que melhor representam minhas habilidades:
 - Fundamentos de Gestão Ágil  
 - Introdução à AWS  
 - Git e GitHub  
-- Power BI (em andamento)  
 - SQL (em andamento)
 
 ---
@@ -68,7 +57,7 @@ Aqui estão alguns projetos que melhor representam minhas habilidades:
   <a href="https://www.linkedin.com/in/joão-henrique-de-moura-reinaldo" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:joaohmreinaldo@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </div>
